@@ -8,8 +8,7 @@ build/
 
 # Environment files (.env) are versioned on purpose — keep this repo private
 
-# PocketBase runtime data (database, uploads, logs)
-apps/pocketbase/pb_data/
+# PocketBase binary (pb_data is versioned on purpose)
 apps/pocketbase/pocketbase
 apps/pocketbase/pocketbase.exe
 
