@@ -6,10 +6,7 @@ dist/
 build/
 .react-router/
 
-# Environment / secrets
-.env
-.env.*
-!.env.example
+# Environment files (.env) are versioned on purpose — keep this repo private
 
 # PocketBase runtime data (database, uploads, logs)
 apps/pocketbase/pb_data/
